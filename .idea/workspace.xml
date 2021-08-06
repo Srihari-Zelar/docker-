@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c7d799d-0cb0-443e-9861-c817c42c9aee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-labels/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/4-labels/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-expose/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/5-expose/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-env/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/6-env/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628241767360</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1628246348658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628246348658</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
