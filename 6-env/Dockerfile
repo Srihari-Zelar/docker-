@@ -8,3 +8,6 @@ LABEL       Owner="ZelarSoft" \
 EXPOSE      80
 ENV         URL=yahoo.com
 ENV         PROJECT=STYRA
+
+
+### we are adding envinronment variabels here

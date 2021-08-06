@@ -6,3 +6,5 @@ LABEL       Owner="ZelarSoft" \
             Maintainer="DevOps Team"\
             ProjectName="styra"
 EXPOSE      80
+
+### we are adding port numbers here

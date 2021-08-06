@@ -5,3 +5,6 @@ CMD         ["nginx", "-g", "daemon off;"]
 LABEL       Owner="ZelarSoft" \
             Maintainer="DevOps Team"\
             ProjectName="styra"
+
+
+#### we are adding labels here
